@@ -1,4 +1,4 @@
-baseURL = 'https://wei-hao-yuzurin.github.io/cloud-yuzurin/'
+baseURL = 'https://wei-hao-yuzurin.github.io/cloud_yuzurin/'
 locale = 'en-us'
 title = 'Мой новый сайт'
 theme = 'ananke'
